@@ -1,0 +1,625 @@
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+ 
+You are in Menu 1
+ 
+-------------------------------
+The course number is CS401
+Numbers of site is 3
+Numbers of students in site 01 is 10
+Numbers of students in site 02 is 5
+Numbers of students in site 03 is 5
+Numbers of total class size is 20
+Numbers of Assignment is 10
+Numbers of project is 1
+Numbers of exam is 2
+-------------------------------
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+ 
+You are in Menu 2
+ 
+ 
+-------------------------------
+Data has been input successful. 
+-------------------------------
+Michael Jordan 35 CS401 1 10 9 8 8 9 9 8 7 7 9 18 80 89
+Lebron James 23 CS401 1 10 9 8 10 7 9 8 7 7 9 17 85 90
+Kobe Bryant 24 CS401 2 10 9 8 10 9 10 8 7 7 9 20 84 98
+Zihao Jian 66 CS401 1 10 9 8 10 9 9 8 7 7 9 19 88 77
+Kai Ming 77 CS401 1 10 9 8 10 9 9 8 7 7 9 18 99 87
+Tai Zi 20 CS401 2 10 9 8 10 9 9 10 7 7 9 19 90 86
+Yu Xiong 51 CS401 1 10 9 8 10 9 9 8 7 7 9 18 88 77
+Han Wang 37 CS401 2 10 9 8 10 9 9 9 10 7 9 20 76 90
+Changhao Li 78 CS401 3 10 9 8 10 9 9 8 10 7 9 15 74 92
+Fengzuo Chen 55 CS401 2 10 9 8 10 9 9 8 7 7 9 16 78 88
+Jinhe Zhang 12 CS401 2 10 9 8 10 9 9 8 10 10 9 19 74 87
+Peng Luo 35 CS401 3 10 9 8 10 9 9 8 7 7 9 17 89 88
+Juyi Li 25 CS401 1 10 9 8 10 9 9 8 6 7 7 19 88 83
+Bei Liu 76 CS401 3 10 9 8 10 9 9 10 7 7 9 19 92 84
+Fei Zhang 86 CS401 1 10 9 8 9 9 9 8 7 7 9 18 90 86
+Yu Guan 33 CS401 3 10 10 8 9 9 9 8 7 7 9 19 99 85
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+Yuezheng Zhang 55 CS401 1 10 8 8 7 6 9 8 7 7 9 17 77 70
+Sitan Li 80 CS401 3 10 9 8 10 6 9 10 7 7 9 20 70 89
+James King 50 CS401 1 10 9 8 8 10 10 10 10 7 9 19 88 90
+-------------------------------
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+ 
+1. Search by first name
+Please input the first name: 
+
+ 
+The information is sorted as follow :
+Yu Guan 33 CS401 3 10 10 8 9 9 9 8 7 7 9 19 99 85
+Yu Xiong 51 CS401 1 10 9 8 10 9 9 8 7 7 9 18 88 77
+ 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+ 
+2. Search by last name
+   Please input the last name: 
+
+Li
+The information is sorted as follow :
+Changhao Li 78 CS401 3 10 9 8 10 9 9 8 10 7 9 15 74 92
+Juyi Li 25 CS401 1 10 9 8 10 9 9 8 6 7 7 19 88 83
+Sitan Li 80 CS401 3 10 9 8 10 6 9 10 7 7 9 20 70 89
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+ 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+ 
+3. Search by SID
+   Please input the SID: 
+
+44
+The information is sorted as follow :
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+ 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+4. Traveling list:
+   Please use the SID to locate the current situation:
+
+The curent location is: Tayo Li 44
+Output number of Students(type in the positive integer): 
+Decide the direction(choose - or + ) : 
+Current location of pointer is:1Tayo Li 1
+
+Traversal in forwaord direction
+Tayo Li 1>>Yuezheng Zhang 1>>Sitan Li 3>>James King 1>> 
+Sorry, can¡¯t go that far. James King is the last member of the list.
+
+ 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+Imput mistake.
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+4. Traveling list:
+   Please use the SID to locate the current situation:
+
+The curent location is: Tayo Li 44
+Output number of Students(type in the positive integer): 
+Decide the direction(choose - or + ) : 
+Traversal in reverse Direction
+Current location of pointer is:Tayo Li 1
+
+Tayo Li 1<<Yu Guan 3<<Fei Zhang 1<<Bei Liu 3<<Juyi Li 1<<Peng Luo 3<<Jinhe Zhang 2<< 
+ 
+You are in Menu 3
+ 
+-------------------------------
+1.  Search by first name 
+2.  Search by last name 
+3.  Search by SID 
+4.  Traveling list 
+5.  Main Menu 
+
+-------------------------------
+Which function in Menu 3 you want to access? 
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+Weight has been set successful.
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+James Lebron 23 1 8.0 17 85 90 85.0 B
+Jian Zihao 66 1 8.0 19 88 77 85.0 B
+Jordan Michael 35 1 8.0 18 80 89 84.0 B
+King James 50 1 9.0 19 88 90 90.0 B
+Li Juyi 25 1 8.0 19 88 83 85.0 B
+Li Tayo 44 1 8.0 18 98 88 90.0 B
+Ming Kai 77 1 8.0 18 99 87 90.0 B
+Xiong Yu 51 1 8.0 18 88 77 84.0 B
+Zhang Fei 86 1 8.0 18 90 86 87.0 B
+Zhang Yuezheng 55 1 7.0 17 77 70 76.0 C
+Bryant Kobe 24 2 8.0 20 84 98 91.0 A
+Chen Fengzuo 55 2 8.0 16 78 88 82.0 B
+Wang Han 37 2 9.0 20 76 90 87.0 B
+Zhang Jinhe 12 2 9.0 19 74 87 85.0 B
+Zi Tai 20 2 8.0 19 90 86 88.0 B
+Guan Yu 33 3 8.0 19 99 85 90.0 B
+Li Changhao 78 3 8.0 15 74 92 81.0 B
+Li Sitan 80 3 8.0 20 70 89 84.0 B
+Liu Bei 76 3 8.0 19 92 84 88.0 B
+Luo Peng 35 3 8.0 17 89 88 86.0 B
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+Bryant Kobe 2 91.0
+King James 1 90.0
+Li Tayo 1 90.0
+Ming Kai 1 90.0
+Guan Yu 3 90.0
+Zi Tai 2 88.0
+Liu Bei 3 88.0
+Zhang Fei 1 87.0
+Wang Han 2 87.0
+Luo Peng 3 86.0
+James Lebron 1 85.0
+Jian Zihao 1 85.0
+Li Juyi 1 85.0
+Zhang Jinhe 2 85.0
+Jordan Michael 1 84.0
+Xiong Yu 1 84.0
+Li Sitan 3 84.0
+Chen Fengzuo 2 82.0
+Li Changhao 3 81.0
+Zhang Yuezheng 1 76.0
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+King James 1 9.0
+Wang Han 2 9.0
+Zhang Jinhe 2 9.0
+James Lebron 1 8.0
+Jian Zihao 1 8.0
+Jordan Michael 1 8.0
+Li Tayo 1 8.0
+Li Juyi 1 8.0
+Ming Kai 1 8.0
+Xiong Yu 1 8.0
+Zhang Fei 1 8.0
+Bryant Kobe 2 8.0
+Chen Fengzuo 2 8.0
+Zi Tai 2 8.0
+Guan Yu 3 8.0
+Li Sitan 3 8.0
+Li Changhao 3 8.0
+Liu Bei 3 8.0
+Luo Peng 3 8.0
+Zhang Yuezheng 1 7.0
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+Bryant Kobe 2 20
+Wang Han 2 20
+Li Sitan 3 20
+Jian Zihao 1 19
+King James 1 19
+Li Juyi 1 19
+Zhang Jinhe 2 19
+Zi Tai 2 19
+Guan Yu 3 19
+Liu Bei 3 19
+Jordan Michael 1 18
+Li Tayo 1 18
+Ming Kai 1 18
+Xiong Yu 1 18
+Zhang Fei 1 18
+James Lebron 1 17
+Zhang Yuezheng 1 17
+Luo Peng 3 17
+Chen Fengzuo 2 16
+Li Changhao 3 15
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+Bryant Kobe 2 A
+James Lebron 1 B
+Jian Zihao 1 B
+Jordan Michael 1 B
+King James 1 B
+Li Juyi 1 B
+Li Tayo 1 B
+Ming Kai 1 B
+Xiong Yu 1 B
+Zhang Fei 1 B
+Chen Fengzuo 2 B
+Wang Han 2 B
+Zhang Jinhe 2 B
+Zi Tai 2 B
+Guan Yu 3 B
+Li Sitan 3 B
+Li Changhao 3 B
+Liu Bei 3 B
+Luo Peng 3 B
+Zhang Yuezheng 1 C
+ 
+ 
+You are in Menu 4
+ 
+-------------------------------
+0. Scoring Weight per item
+1. Sorted list by last name
+2. Ranking by total score
+3. Ranking by homework average
+4. Ranking by project score
+5. Ranking by grade
+6. Main Menu
+-------------------------------
+ 
+Which function in Menu 4 you want to access? 
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+You've chosen Menu 5
+-------------------------------
+1. Add record
+2. Remove record
+3. Change record 
+4. Main Menu
+-------------------------------
+Which menu you want to access? 
+1.  Add record
+Please input the information you want to add: 
+Kobe Bryant 24 CS401 2 10 9 8 10 9 10 8 7 7 9 20 84 98
+Lebron James 23 CS401 1 10 9 8 10 7 9 8 7 7 9 17 85 90
+Zihao Jian 66 CS401 1 10 9 8 10 9 9 8 7 7 9 19 88 77
+Michael Jordan 35 CS401 1 10 9 8 8 9 9 8 7 7 9 18 80 89
+James King 50 CS401 1 10 9 8 8 10 10 10 10 7 9 19 88 90
+Juyi Li 25 CS401 1 10 9 8 10 9 9 8 6 7 7 19 88 83
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+Kai Ming 77 CS401 1 10 9 8 10 9 9 8 7 7 9 18 99 87
+Yu Xiong 51 CS401 1 10 9 8 10 9 9 8 7 7 9 18 88 77
+Fei Zhang 86 CS401 1 10 9 8 9 9 9 8 7 7 9 18 90 86
+Fengzuo Chen 55 CS401 2 10 9 8 10 9 9 8 7 7 9 16 78 88
+Han Wang 37 CS401 2 10 9 8 10 9 9 9 10 7 9 20 76 90
+Jinhe Zhang 12 CS401 2 10 9 8 10 9 9 8 10 10 9 19 74 87
+Tai Zi 20 CS401 2 10 9 8 10 9 9 10 7 7 9 19 90 86
+Yu Guan 33 CS401 3 10 10 8 9 9 9 8 7 7 9 19 99 85
+Sitan Li 80 CS401 3 10 9 8 10 6 9 10 7 7 9 20 70 89
+Changhao Li 78 CS401 3 10 9 8 10 9 9 8 10 7 9 15 74 92
+Bei Liu 76 CS401 3 10 9 8 10 9 9 10 7 7 9 19 92 84
+Peng Luo 35 CS401 3 10 9 8 10 9 9 8 7 7 9 17 89 88
+Yuezheng Zhang 55 CS401 1 10 8 8 7 6 9 8 7 7 9 17 77 70
+Jim Li 11 CS401 2 0 0 0 0 0 0 0 0 0 0 19 90 86
+You've chosen Menu 5
+-------------------------------
+1. Add record
+2. Remove record
+3. Change record 
+4. Main Menu
+-------------------------------
+Which menu you want to access? 
+2.  Remove record
+Please type the SID of the student you want to remove (a double-digit number):
+Kobe Bryant 24 CS401 2 10 9 8 10 9 10 8 7 7 9 20 84 98
+Lebron James 23 CS401 1 10 9 8 10 7 9 8 7 7 9 17 85 90
+Zihao Jian 66 CS401 1 10 9 8 10 9 9 8 7 7 9 19 88 77
+Michael Jordan 35 CS401 1 10 9 8 8 9 9 8 7 7 9 18 80 89
+James King 50 CS401 1 10 9 8 8 10 10 10 10 7 9 19 88 90
+Juyi Li 25 CS401 1 10 9 8 10 9 9 8 6 7 7 19 88 83
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+Kai Ming 77 CS401 1 10 9 8 10 9 9 8 7 7 9 18 99 87
+Yu Xiong 51 CS401 1 10 9 8 10 9 9 8 7 7 9 18 88 77
+Fei Zhang 86 CS401 1 10 9 8 9 9 9 8 7 7 9 18 90 86
+Fengzuo Chen 55 CS401 2 10 9 8 10 9 9 8 7 7 9 16 78 88
+Han Wang 37 CS401 2 10 9 8 10 9 9 9 10 7 9 20 76 90
+Jinhe Zhang 12 CS401 2 10 9 8 10 9 9 8 10 10 9 19 74 87
+Tai Zi 20 CS401 2 10 9 8 10 9 9 10 7 7 9 19 90 86
+Yu Guan 33 CS401 3 10 10 8 9 9 9 8 7 7 9 19 99 85
+Sitan Li 80 CS401 3 10 9 8 10 6 9 10 7 7 9 20 70 89
+Changhao Li 78 CS401 3 10 9 8 10 9 9 8 10 7 9 15 74 92
+Bei Liu 76 CS401 3 10 9 8 10 9 9 10 7 7 9 19 92 84
+Peng Luo 35 CS401 3 10 9 8 10 9 9 8 7 7 9 17 89 88
+Yuezheng Zhang 55 CS401 1 10 8 8 7 6 9 8 7 7 9 17 77 70
+You've chosen Menu 5
+-------------------------------
+1. Add record
+2. Remove record
+3. Change record 
+4. Main Menu
+-------------------------------
+Which menu you want to access? 
+3.  Change record
+Please type the SID of the student you want to change record: 
+The infomation of the student you want to change is: 
+
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 88
+Please type the type of grade and the new score: 
+FinalGrade 0
+The current imformation is :
+Tayo Li 44 CS401 1 10 10 9 10 9 9 8 7 7 9 18 98 0
+You've chosen Menu 5
+-------------------------------
+1. Add record
+2. Remove record
+3. Change record 
+4. Main Menu
+-------------------------------
+Which menu you want to access? 
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
+ 
+You are in Menu 6
+ 
+1. Average Score of Class
+2. Percentage of Grade
+3. Main Menu
+ 
+Which function in Menu 6 you want to access? 
+Statistics per class
+===============================
+Average of Homework:       8.645
+Average of Project:        18.25
+Average of Midterm:        85.35
+Average of Final:          81.8
+Average of Total Score:    85.9
+  
+Statistics per Site
+-------------------------------
+Class Site:                 01
+Average of Homework:       8.52
+Average of Project:        18.1
+Average of Midterm:        88.1
+Average of Final:          74.9
+Average of Total Score:    85.6
+  
+Class Site:                 02
+Average of Homework:       8.86
+Average of Project:        18.8
+Average of Midterm:        80.4
+Average of Final:          89.8
+Average of Total Score:    86.6
+  
+Class Site:                 03
+Average of Homework:       8.68
+Average of Project:        18.0
+Average of Midterm:        84.8
+Average of Final:          87.6
+Average of Total Score:    85.8
+ 
+You are in Menu 6
+ 
+1. Average Score of Class
+2. Percentage of Grade
+3. Main Menu
+ 
+Which function in Menu 6 you want to access? 
+ 
+A        5.0%
+B        90.0%
+C        5.0%
+E        0.0%
+ 
+You are in Menu 6
+ 
+1. Average Score of Class
+2. Percentage of Grade
+3. Main Menu
+ 
+Which function in Menu 6 you want to access? 
+ 
+You are in main Menu
+-------------------------------
+1. Roster Creation
+2. Grade Input
+3. Record Search
+4. Show List
+5. Change record
+6. Statistic
+7. Exit
+-------------------------------
+ 
+Which menu you want to access? 
